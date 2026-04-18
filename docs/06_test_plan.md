@@ -2,7 +2,7 @@
 
 ## Scope
 
-- Configuration deploy to groups<+
+- Configuration deploy to groups
 - Validating user input
 - Exiting the program
 
